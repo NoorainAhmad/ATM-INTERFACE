@@ -10,3 +10,11 @@ ATM INTERFACE
 * To withdraw the money, we simply get the withdrawal amount from the user and remove that amount from the total balance and print the successful message.
 
 * To deposit the money, we simply get the deposit amount from the user, add it to the total balance and print the successful message.
+* It also keeps the record of every transaction of the system.
+
+  
+
+
+  
+![Screenshot (43)](https://github.com/NoorainAhmad/OIBSIP_TASK3/assets/132768174/68f94e77-ca71-4efe-a995-9c4a67dda22c)
+![Screenshot (44)](https://github.com/NoorainAhmad/OIBSIP_TASK3/assets/132768174/62b311bf-80f8-405b-8d65-552f2fce028b)
